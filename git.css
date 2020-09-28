@@ -1,0 +1,17 @@
+h1 { margin-right: 370px;
+	color: black;
+	font-size: 50
+    }
+    
+table, td, tr { border: 2px solid black;
+                border-collapse: collapse ;
+            }
+
+p { font-family: "SpaceMono", sans-serif;
+    font-style: bold;
+    font-size: 20;
+    color: blue;
+    }
+body {background-color: burlywood;
+
+    }
